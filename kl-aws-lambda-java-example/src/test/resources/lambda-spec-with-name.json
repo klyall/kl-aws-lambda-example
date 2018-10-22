@@ -1,0 +1,49 @@
+{
+  "context": {
+    "awsRequestId": "",
+    "logGroupName": "",
+    "logStreamName": "",
+    "functionName": "",
+    "functionVersion": "",
+    "invokedFunctionArn": "",
+    "identity": null,
+    "clientContext": {
+      "client": {
+        "installationId": "",
+        "appTitle": "",
+        "appVersionName": "",
+        "appVersionCode": "",
+        "appPackageName": ""
+      },
+      "custom": {
+
+      },
+      "environment": {
+
+      }
+    },
+    "remainingTimeInMillis": 30,
+    "memoryLimitInMB": 128,
+    "logger": null
+  },
+  "request": {
+    "path": "/users",
+    "pathParameters": {
+
+    },
+    "queryStringParameters": {
+
+    },
+    "resource": "users",
+    "stageVariables": {
+
+    },
+    "method": "GET",
+    "headers": {
+
+    },
+    "body": {
+      "name": "Bob"
+    }
+  }
+}
